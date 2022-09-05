@@ -8,10 +8,12 @@ Drum kit , a js game , that helps practice the DOM
 ## General info
 this project is a simple Drum-kit game .
 ## Setup
-To run this project , install it locally using npm 
+To run this project , install it locally using npm
+
+![preview](images/2022-09-05 13_05_52-Drum Kit.png)
 ```
 $ cd ..../javascript-game
 $ npm install
 $npm start 
 
-![2022-09-05 13_05_52-Drum Kit](2022-09-05 13_05_52-Drum Kit.png)
+
