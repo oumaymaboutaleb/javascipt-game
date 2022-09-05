@@ -13,3 +13,5 @@ To run this project , install it locally using npm
 $ cd ..../javascript-game
 $ npm install
 $npm start 
+
+![2022-09-05 13_05_52-Drum Kit](2022-09-05 13_05_52-Drum Kit.png)
