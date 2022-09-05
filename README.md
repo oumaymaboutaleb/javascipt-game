@@ -2,7 +2,6 @@
 Drum kit , a js game , that helps practice the DOM
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
 * [Setup](#setup)
 
 
